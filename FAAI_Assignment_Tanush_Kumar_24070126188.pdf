@@ -1,0 +1,392 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<<
+  /Type /Page
+  /Parent 2 0 R
+  /MediaBox [0 0 595.28 841.89]
+  /Resources <<
+    /Font <<
+      /F1 4 0 R
+      /F2 5 0 R
+      /F3 6 0 R
+    >>
+  >>
+  /Contents 7 0 R
+  /Annots [8 0 R]
+>>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique >>
+endobj
+7 0 obj
+<< /Length 5802 >>
+stream
+0.070 0.130 0.250 rg
+0.00 745.00 595.28 96.89 re f
+0.130 0.400 0.900 rg
+0.00 740.00 595.28 5.00 re f
+0.700 0.800 1.000 rg
+BT
+/F2 11.00 Tf
+40.00 805.00 Td
+(COURSE ASSIGNMENT SUBMISSION) Tj
+ET
+1.000 1.000 1.000 rg
+BT
+/F2 20.00 Tf
+40.00 780.00 Td
+(MediBook: Multi-Agent Clinical POC) Tj
+ET
+0.850 0.900 0.980 rg
+BT
+/F1 10.00 Tf
+40.00 760.00 Td
+(Foundations of Applied AI \(FAAI\) | Academic Year 2026) Tj
+ET
+0.150 0.250 0.450 rg
+435.00 780.00 120.00 24.00 re f
+1.000 1.000 1.000 rg
+BT
+/F2 9.00 Tf
+447.00 788.00 Td
+(FINAL SUBMISSION) Tj
+ET
+0.965 0.975 0.990 rg
+0.860 0.900 0.950 RG
+1.00 w
+40.00 635.00 515.28 90.00 re B
+0.130 0.400 0.900 rg
+BT
+/F2 10.00 Tf
+58.00 703.00 Td
+(STUDENT DETAILS) Tj
+ET
+0.860 0.900 0.950 RG
+0.80 w
+58.00 697.00 m 537.28 697.00 l S
+0.090 0.120 0.180 rg
+BT
+/F2 10.00 Tf
+60.00 675.00 Td
+(Student Name:) Tj
+ET
+0.090 0.120 0.180 rg
+BT
+/F1 10.00 Tf
+150.00 675.00 Td
+(Tanush Kumar) Tj
+ET
+0.090 0.120 0.180 rg
+BT
+/F2 10.00 Tf
+60.00 653.00 Td
+(PRN:) Tj
+ET
+0.090 0.120 0.180 rg
+BT
+/F1 10.00 Tf
+150.00 653.00 Td
+(24070126188) Tj
+ET
+0.090 0.120 0.180 rg
+BT
+/F2 10.00 Tf
+320.00 675.00 Td
+(Course Code:) Tj
+ET
+0.130 0.400 0.900 rg
+BT
+/F2 10.00 Tf
+410.00 675.00 Td
+(FAAI) Tj
+ET
+0.090 0.120 0.180 rg
+BT
+/F2 10.00 Tf
+320.00 653.00 Td
+(Date:) Tj
+ET
+0.090 0.120 0.180 rg
+BT
+/F1 10.00 Tf
+410.00 653.00 Td
+(November 2026) Tj
+ET
+0.930 0.960 1.000 rg
+0.130 0.400 0.900 RG
+1.50 w
+40.00 530.00 515.28 90.00 re B
+0.070 0.130 0.250 rg
+BT
+/F2 11.00 Tf
+58.00 596.00 Td
+(GITHUB PROJECT REPOSITORY) Tj
+ET
+0.380 0.440 0.540 rg
+BT
+/F1 9.00 Tf
+58.00 578.00 Td
+(Click the link below to view the complete source code, agent graphs, and demo:) Tj
+ET
+1.000 1.000 1.000 rg
+0.700 0.800 0.950 RG
+0.80 w
+58.00 546.00 479.28 26.00 re B
+0.130 0.400 0.900 rg
+BT
+/F2 9.00 Tf
+68.00 554.00 Td
+([Repo]) Tj
+ET
+0.100 0.350 0.850 rg
+BT
+/F2 10.00 Tf
+110.00 554.00 Td
+(https://github.com/Tanush-o-Kumar/medibook_agentic_poc) Tj
+ET
+0.965 0.975 0.990 rg
+0.860 0.900 0.950 RG
+1.00 w
+40.00 410.00 515.28 105.00 re B
+0.070 0.130 0.250 rg
+BT
+/F2 11.00 Tf
+58.00 495.00 Td
+(PROJECT OVERVIEW & ARCHITECTURE) Tj
+ET
+0.860 0.900 0.950 RG
+0.80 w
+58.00 488.00 m 537.28 488.00 l S
+0.090 0.120 0.180 rg
+BT
+/F1 9.50 Tf
+58.00 470.00 Td
+(MediBook is an autonomous multi-agent healthcare coordination and clinical appointment triage system.) Tj
+ET
+0.090 0.120 0.180 rg
+BT
+/F1 9.50 Tf
+58.00 454.00 Td
+(It implements LangGraph state-driven workflows that coordinate specialized LLM agents for conversational) Tj
+ET
+0.090 0.120 0.180 rg
+BT
+/F1 9.50 Tf
+58.00 438.00 Td
+(patient intake, urgency assessment, doctor calendar scheduling, and automated notification dispatches.) Tj
+ET
+0.090 0.120 0.180 rg
+BT
+/F1 9.50 Tf
+58.00 422.00 Td
+(The system is powered by local LLM inference \(Ollama Llama 3.2\) with a resilient rule-based deterministic fallback.) Tj
+ET
+0.965 0.975 0.990 rg
+0.860 0.900 0.950 RG
+1.00 w
+40.00 265.00 515.28 130.00 re B
+0.070 0.130 0.250 rg
+BT
+/F2 11.00 Tf
+58.00 375.00 Td
+(MULTI-AGENT WORKFLOW MODULES) Tj
+ET
+0.860 0.900 0.950 RG
+0.80 w
+58.00 368.00 m 537.28 368.00 l S
+0.130 0.400 0.900 rg
+60.00 347.00 5.00 5.00 re f
+0.090 0.120 0.180 rg
+BT
+/F2 9.50 Tf
+72.00 345.00 Td
+(Intake Agent:) Tj
+ET
+0.380 0.440 0.540 rg
+BT
+/F1 9.00 Tf
+200.00 345.00 Td
+(Interviews patients, captures medical history, symptoms, and urgency level.) Tj
+ET
+0.130 0.400 0.900 rg
+60.00 325.00 5.00 5.00 re f
+0.090 0.120 0.180 rg
+BT
+/F2 9.50 Tf
+72.00 323.00 Td
+(Triage & Routing Agent:) Tj
+ET
+0.380 0.440 0.540 rg
+BT
+/F1 9.00 Tf
+200.00 323.00 Td
+(Classifies emergency vs routine needs, maps patient to specialized physicians.) Tj
+ET
+0.130 0.400 0.900 rg
+60.00 303.00 5.00 5.00 re f
+0.090 0.120 0.180 rg
+BT
+/F2 9.50 Tf
+72.00 301.00 Td
+(Scheduling Agent:) Tj
+ET
+0.380 0.440 0.540 rg
+BT
+/F1 9.00 Tf
+200.00 301.00 Td
+(Queries physician availability, validates conflicts, and reserves time slots.) Tj
+ET
+0.130 0.400 0.900 rg
+60.00 281.00 5.00 5.00 re f
+0.090 0.120 0.180 rg
+BT
+/F2 9.50 Tf
+72.00 279.00 Td
+(Notification Agent:) Tj
+ET
+0.380 0.440 0.540 rg
+BT
+/F1 9.00 Tf
+200.00 279.00 Td
+(Generates clinical confirmation briefs, patient instructions, and reminder logs.) Tj
+ET
+0.965 0.975 0.990 rg
+0.860 0.900 0.950 RG
+1.00 w
+40.00 100.00 515.28 150.00 re B
+0.070 0.130 0.250 rg
+BT
+/F2 11.00 Tf
+58.00 230.00 Td
+(REPOSITORY FILE STRUCTURE & EXECUTION) Tj
+ET
+0.860 0.900 0.950 RG
+0.80 w
+58.00 223.00 m 537.28 223.00 l S
+0.130 0.400 0.900 rg
+BT
+/F2 9.00 Tf
+60.00 205.00 Td
+(app.py) Tj
+ET
+0.380 0.440 0.540 rg
+BT
+/F1 8.50 Tf
+135.00 205.00 Td
+(- Streamlit clinical dashboard, chat interface, and doctor schedule views.) Tj
+ET
+0.130 0.400 0.900 rg
+BT
+/F2 9.00 Tf
+60.00 188.00 Td
+(graph.py) Tj
+ET
+0.380 0.440 0.540 rg
+BT
+/F1 8.50 Tf
+135.00 188.00 Td
+(- LangGraph state machine wiring, routing conditions, and node execution.) Tj
+ET
+0.130 0.400 0.900 rg
+BT
+/F2 9.00 Tf
+60.00 171.00 Td
+(agents.py) Tj
+ET
+0.380 0.440 0.540 rg
+BT
+/F1 8.50 Tf
+135.00 171.00 Td
+(- Specialized agent implementations, prompt templates, and decision logic.) Tj
+ET
+0.130 0.400 0.900 rg
+BT
+/F2 9.00 Tf
+60.00 154.00 Td
+(tools.py) Tj
+ET
+0.380 0.440 0.540 rg
+BT
+/F1 8.50 Tf
+135.00 154.00 Td
+(- Synthetic calendar lookup, appointment slot booking, and conflict management.) Tj
+ET
+0.130 0.400 0.900 rg
+BT
+/F2 9.00 Tf
+60.00 137.00 Td
+(llm.py) Tj
+ET
+0.380 0.440 0.540 rg
+BT
+/F1 8.50 Tf
+135.00 137.00 Td
+(- Ollama client adapter with resilient rule-based deterministic fallback.) Tj
+ET
+0.900 0.930 0.980 rg
+58.00 110.00 479.28 18.00 re f
+0.070 0.130 0.250 rg
+BT
+/F2 8.50 Tf
+66.00 115.00 Td
+(To launch the interactive demo:   streamlit run app.py) Tj
+ET
+0.850 0.850 0.850 RG
+0.50 w
+40.00 60.00 m 555.28 60.00 l S
+0.380 0.440 0.540 rg
+BT
+/F1 8.00 Tf
+40.00 46.00 Td
+(FAAI Course Submission | Tanush Kumar \(PRN: 24070126188\)) Tj
+ET
+0.050 0.550 0.300 rg
+BT
+/F1 8.00 Tf
+435.28 46.00 Td
+(Verified Submission Document) Tj
+ET
+endstream
+endobj
+8 0 obj
+<<
+  /Type /Annot
+  /Subtype /Link
+  /Rect [58.00 546.00 537.28 572.00]
+  /Border [0 0 0]
+  /A <<
+    /Type /Action
+    /S /URI
+    /URI (https://github.com/Tanush-o-Kumar/medibook_agentic_poc)
+  >>
+>>
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000329 00000 n 
+0000000399 00000 n 
+0000000474 00000 n 
+0000000552 00000 n 
+0000006406 00000 n 
+trailer
+<< /Size 9 /Root 1 0 R >>
+startxref
+6623
+%%EOF
